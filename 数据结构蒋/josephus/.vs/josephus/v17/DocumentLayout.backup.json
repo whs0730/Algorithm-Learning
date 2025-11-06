@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\josephus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD34D929-E196-46F1-83E7-3ABD67DCB385}|josephus\\josephus.vcxproj|D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\josephus\\josephus\\josephus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD34D929-E196-46F1-83E7-3ABD67DCB385}|josephus\\josephus.vcxproj|solutionrelative:josephus\\josephus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "josephus.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\josephus\\josephus\\josephus.cpp",
+              "RelativeDocumentMoniker": "josephus\\josephus.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\josephus\\josephus\\josephus.cpp",
+              "RelativeToolTip": "josephus\\josephus.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T09:13:23.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

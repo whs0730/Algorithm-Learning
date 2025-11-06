@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\queueJosephus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB29F9A-A9BD-4506-A0D8-E3164A4F4CA7}|queueJosephus\\queueJosephus.vcxproj|D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\queueJosephus\\queueJosephus\\queueJosephus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFB29F9A-A9BD-4506-A0D8-E3164A4F4CA7}|queueJosephus\\queueJosephus.vcxproj|solutionrelative:queueJosephus\\queueJosephus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queueJosephus.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\queueJosephus\\queueJosephus\\queueJosephus.cpp",
+              "RelativeDocumentMoniker": "queueJosephus\\queueJosephus.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\queueJosephus\\queueJosephus\\queueJosephus.cpp",
+              "RelativeToolTip": "queueJosephus\\queueJosephus.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwD0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T12:36:27.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

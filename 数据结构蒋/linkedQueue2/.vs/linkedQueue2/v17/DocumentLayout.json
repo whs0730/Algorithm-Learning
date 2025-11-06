@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\linkedQueue2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FBFA2C-6132-48E5-B98C-567CA3D38ADB}|linkedQueue2\\linkedQueue2.vcxproj|D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\linkedQueue2\\linkedQueue2\\linkedQueue2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FBFA2C-6132-48E5-B98C-567CA3D38ADB}|linkedQueue2\\linkedQueue2.vcxproj|solutionrelative:linkedQueue2\\linkedQueue2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedQueue2.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\linkedQueue2\\linkedQueue2\\linkedQueue2.cpp",
+              "RelativeDocumentMoniker": "linkedQueue2\\linkedQueue2.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\linkedQueue2\\linkedQueue2\\linkedQueue2.cpp",
+              "RelativeToolTip": "linkedQueue2\\linkedQueue2.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T15:17:18.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

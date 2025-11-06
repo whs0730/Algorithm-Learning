@@ -1,0 +1,3 @@
+﻿  linkedQueue2.cpp
+D:\计算机\C++\数据结构蒋\linkedQueue2\linkedQueue2\linkedQueue2.cpp(113,15): warning C4101: “val”: 未引用的局部变量
+  linkedQueue2.vcxproj -> D:\计算机\C++\数据结构蒋\linkedQueue2\x64\Debug\linkedQueue2.exe

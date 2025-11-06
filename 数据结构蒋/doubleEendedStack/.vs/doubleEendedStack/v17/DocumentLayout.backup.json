@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\doubleEendedStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFA6BA0-D15D-43BE-841A-5C9DC345D653}|doubleEendedStack\\doubleEendedStack.vcxproj|D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\doubleEendedStack\\doubleEendedStack\\doubleEendedStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEFA6BA0-D15D-43BE-841A-5C9DC345D653}|doubleEendedStack\\doubleEendedStack.vcxproj|solutionrelative:doubleEendedStack\\doubleEendedStack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doubleEendedStack.cpp",
+              "DocumentMoniker": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\doubleEendedStack\\doubleEendedStack\\doubleEendedStack.cpp",
+              "RelativeDocumentMoniker": "doubleEendedStack\\doubleEendedStack.cpp",
+              "ToolTip": "D:\\\u8BA1\u7B97\u673A\\C\u002B\u002B\\\u6570\u636E\u7ED3\u6784\u848B\\doubleEendedStack\\doubleEendedStack\\doubleEendedStack.cpp",
+              "RelativeToolTip": "doubleEendedStack\\doubleEendedStack.cpp",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwHwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T07:52:38.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
